@@ -48,6 +48,6 @@ print("True and True is: ", True and True)
 print("False and True is: ", False and True)
 print("False and false is: ", False and False)
 
-# NOT it return False for True and returns True true for false 
+# NOT it will return False for True and returns True  for false 
 print(not(True))
 print(not(False))
