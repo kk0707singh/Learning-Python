@@ -19,7 +19,7 @@ userInputList = []
 item1 = input("Enter First item: ")
 userInputList.append(item1)
 
-item2 = input("Enter secon item: ")
+item2 = input("Enter second item: ")
 userInputList.append(item2)
 
 item3 = input("Enter third input: ")
