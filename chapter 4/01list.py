@@ -41,3 +41,6 @@ print(shorterinput)
 # more shorter way to solve the same problem
 emptylist = input("Enter the items seperated by commas: ")
 print(emptylist.split(","))
+
+rollno = int(input("enter your roll no: "))
+# print(rollno.split(","))     this will not work as split() only work for string values
