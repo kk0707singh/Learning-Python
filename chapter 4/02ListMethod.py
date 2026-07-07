@@ -3,12 +3,12 @@ data.append("Sidharth")
 print(data)
 
 anotherlist = [81, 14, 5, 3, 7, 2, 41, 9, 10]
-# anotherlist.reverse()
-# print(anotherlist)
-# anotherlist.sort()
-# print(anotherlist)
-# print(anotherlist.pop(7))
-# anotherlist.remove(9)
+anotherlist.reverse()
+print(anotherlist)
+anotherlist.sort()
+print(anotherlist)
+print(anotherlist.pop(7))
+anotherlist.remove(9)
 
 anotherlist.extend([99,88,44,45])
 print(anotherlist)
