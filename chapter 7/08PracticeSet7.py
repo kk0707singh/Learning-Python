@@ -234,3 +234,78 @@ QUESTION: For printing these pattern question:
 #     for j in range(1, i+1):
 #         print(j, end=" ")
 #     print()
+
+
+
+
+'''
+QUESTIONS: Solve this Pattern Problem
+* * * * * * * * * 
+  * * * * * * * 
+    * * * * * 
+      * * * 
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+* * * * * * * * * 
+'''
+# num = int(input("Enter the no of rows: "))
+# for i in range(0, num):
+#     for j in range(0, i):
+#         print(" ", end=" ")
+#     for k in range(1, 2*num-2*i):
+#         print("*", end=" ")
+#     print()
+# for i in range(1, num):
+#     for j in range(num-i-1):
+#         print(" ", end=" ")
+#     for k in range(2*i+1): 
+#         print("*", end=" ")
+#     print()
+
+
+
+# QUESTION: print the following pattern:
+'''
+*
+* *
+* * *
+* * * *
+* * *
+* *
+*
+'''
+# num = int(input("Enter the no. of Rows: "))
+# for i in range(1, num+1):
+#     for j in range(1, i+1):
+#         print("*", end=" ")
+#     print()
+# for i in range(1, num):
+#     for j in range(num-i):
+#         print("*", end=" ")
+#     print()
+
+
+'''
+Print the Following Pattern Question: 
+* * * * *
+*       *
+*       *
+* * * * *
+'''
+# rows = int(input("Enter the no of rows: "))
+# col = int(input("Enter the no of Columns: "))
+# for i in range(rows):
+#     for j in range(col):
+#         if(i == 0 or i == rows-1 or j == 0 or j == col-1):
+#             print("*", end=" ")
+#         else:
+#             print(" ", end=" ")
+#     print()
+          
+
+# Print the following table in reverse order: 
+n = int(input("enter the no: "))
+for i in range(1, 11):
+    print(f"{n} X {11-i} = {n*(11-i)}")
