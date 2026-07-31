@@ -9,7 +9,7 @@ time take to run 3 second
 # data = f.read()
 # print(data)
 # f.close()
-
+ 
 
 
 file = open("file.txt")
