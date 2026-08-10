@@ -4,35 +4,35 @@ import numpy as np
 
 # Series: A Series is a one-dimensional labeled array in Pandas that stores data along with an index.
 # it can also hold any data type. it is similar to column in a table
-# data = [1,2,3,4,5,6,7,8,9,10]
-# series = pd.Series(data)
-# print(series)
+data = [1,2,3,4,5,6,7,8,9,10]
+series = pd.Series(data)
+print(series)
 
-# # create a series from a dictionary:
-# data = {'a':1, 'b':2, 'c':3, 'd':4}
-# dict_series = pd.Series(data)
-# print(dict_series)
-
-
-# # we can gove different index over here based on our requirement below is the example:
-# data = [10,20,30]
-# indx = ['a', 'b', 'c']
-# series = pd.Series(data, index=indx)
-# print(series)
+# create a series from a dictionary:
+data = {'a':1, 'b':2, 'c':3, 'd':4}
+dict_series = pd.Series(data)
+print(dict_series)
 
 
+# we can gove different index over here based on our requirement below is the example:
+data = [10,20,30]
+indx = ['a', 'b', 'c']
+series = pd.Series(data, index=indx)
+print(series)
 
-# # DATA FRAME =======>>
-# # create a Dataframe from a dictionary oof list:
-# data = {
-#     'Name': ['Sidharth', 'Priyanka', 'Garima', 'Raghav'],
-#     'age': [26, 24, 23, 25],
-#     'city': ['Banglore', 'Chennai', 'Madras', 'Uttarakhand']
-# }
-# df = pd.DataFrame(data)
-# print(df)
-# # using numpy see the magic: it will skip the column name and indices:
-# print(np.array(df))
+
+
+# DATA FRAME =======>>
+# create a Dataframe from a dictionary oof list:
+data = {
+    'Name': ['Sidharth', 'Priyanka', 'Garima', 'Raghav'],
+    'age': [26, 24, 23, 25],
+    'city': ['Banglore', 'Chennai', 'Madras', 'Uttarakhand']
+}
+df = pd.DataFrame(data)
+print(df)
+# using numpy see the magic: it will skip the column name and indices:
+print(np.array(df))
 
 
 
