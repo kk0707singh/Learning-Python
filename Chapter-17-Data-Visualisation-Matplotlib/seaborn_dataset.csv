@@ -1,0 +1,251 @@
+Transaction_ID,Date,Product_Category,Product_Name,Units_Sold,Unit_Price,Total_Revenue,Region,Payment_Method,Total_Bill,Tip,Sex,Smoker,Day,Time,Size
+10001,2026-08-03,Books,Deep Work,5,397.64,1988.2,Central,Debit Card,22.7,3.28,Male,No,Fri,Lunch,3
+10002,2026-10-28,Books,Data Science Handbook,5,395.46,1977.3,West,UPI,23.51,1.96,Male,No,Mon,Lunch,6
+10003,2026-02-26,Books,The Alchemist,3,949.76,2849.28,North,Debit Card,52.94,4.33,Male,No,Fri,Dinner,5
+10004,2026-06-22,Beauty Products,Skincare Set,4,3484.32,13937.28,South,Cash,80.97,9.41,Female,No,Sun,Dinner,3
+10005,2026-09-08,Beauty Products,Skincare Set,2,3920.64,7841.28,Central,PayPal,75.36,9.47,Female,Yes,Tue,Dinner,6
+10006,2026-09-24,Clothing,Jacket,1,3099.06,3099.06,North,Cash,30.65,5.89,Male,Yes,Thu,Dinner,5
+10007,2026-08-12,Home Appliances,Air Fryer,3,17905.95,53717.85,South,Credit Card,87.19,14.92,Female,No,Wed,Dinner,5
+10008,2026-07-14,Beauty Products,Shampoo,6,3038.23,18229.38,East,Credit Card,24.11,4.34,Male,No,Wed,Dinner,3
+10009,2026-07-13,Clothing,Jeans,3,2420.95,7262.85,East,PayPal,33.13,5.01,Female,Yes,Sun,Dinner,1
+10010,2026-12-12,Books,Deep Work,3,253.92,761.76,West,Cash,57.95,7.03,Male,No,Wed,Lunch,2
+10011,2026-03-07,Home Appliances,Vacuum Cleaner,1,3754.53,3754.53,East,Credit Card,26.91,3.76,Female,No,Sun,Dinner,1
+10012,2026-07-02,Beauty Products,Face Wash,4,775.35,3101.4,East,Credit Card,39.58,3.53,Female,No,Sun,Lunch,1
+10013,2026-02-21,Beauty Products,Face Wash,3,4989.15,14967.45,West,Debit Card,21.71,2.58,Male,No,Mon,Dinner,4
+10014,2026-01-09,Books,Atomic Habits,1,649.03,649.03,West,UPI,66.03,11.14,Male,No,Sun,Dinner,5
+10015,2026-01-08,Beauty Products,Shampoo,3,3036.29,9108.87,South,Credit Card,73.78,9.5,Male,Yes,Thu,Lunch,3
+10016,2026-04-28,Home Appliances,Electric Kettle,2,18592.23,37184.46,North,Debit Card,31.57,5.44,Female,No,Sun,Dinner,2
+10017,2026-08-01,Electronics,Keyboard,3,33718.46,101155.38,West,UPI,65.93,13.09,Female,No,Sun,Lunch,3
+10018,2026-02-02,Electronics,Keyboard,4,53963.97,215855.88,East,PayPal,90.69,19.62,Female,Yes,Sat,Lunch,6
+10019,2026-01-16,Electronics,Keyboard,1,42874.66,42874.66,West,UPI,44.39,8.18,Male,No,Sat,Lunch,4
+10020,2026-03-04,Home Appliances,Toaster,3,12579.16,37737.48,East,Credit Card,69.45,12.06,Male,Yes,Wed,Dinner,6
+10021,2026-05-03,Electronics,Keyboard,5,56457.29,282286.45,West,Credit Card,69.34,14.8,Male,No,Sat,Dinner,3
+10022,2026-08-18,Books,Deep Work,1,669.88,669.88,South,UPI,38.92,7.71,Male,No,Wed,Lunch,1
+10023,2026-12-26,Clothing,Jeans,1,1883.73,1883.73,North,Cash,41.85,5.81,Female,No,Mon,Dinner,5
+10024,2026-09-26,Beauty Products,Perfume,6,3319.83,19918.98,Central,Debit Card,59.68,8.44,Male,Yes,Sat,Dinner,4
+10025,2026-05-07,Clothing,T-Shirt,6,571.8,3430.8,West,PayPal,41.52,8.13,Female,Yes,Sun,Lunch,4
+10026,2026-10-23,Books,Atomic Habits,4,1010.53,4042.12,South,PayPal,36.25,6.94,Male,No,Fri,Dinner,2
+10027,2026-09-08,Clothing,Jacket,1,772.02,772.02,Central,PayPal,78.9,11.2,Female,No,Thu,Dinner,2
+10028,2026-12-05,Electronics,Power Bank,5,44404.87,222024.35,North,Cash,33.34,4.33,Male,Yes,Sat,Dinner,3
+10029,2026-05-04,Beauty Products,Perfume,2,282.37,564.74,South,Cash,43.96,7.52,Female,No,Fri,Dinner,1
+10030,2026-12-18,Clothing,Jeans,1,4693.81,4693.81,East,Cash,14.91,2.42,Male,No,Fri,Dinner,2
+10031,2026-12-14,Electronics,Wireless Earbuds,3,48766.65,146299.95,South,PayPal,79.71,16.48,Female,No,Fri,Dinner,1
+10032,2026-04-26,Home Appliances,Vacuum Cleaner,1,17328.76,17328.76,Central,Debit Card,62.08,7.93,Male,No,Tue,Lunch,2
+10033,2026-01-03,Beauty Products,Shampoo,4,4411.87,17647.48,West,Debit Card,49.95,6.96,Female,No,Mon,Dinner,1
+10034,2026-06-13,Electronics,Power Bank,5,14696.51,73482.55,East,UPI,37.7,5.84,Female,No,Sun,Dinner,1
+10035,2026-05-05,Electronics,Keyboard,1,1144.84,1144.84,East,Cash,86.4,18.41,Male,No,Wed,Lunch,4
+10036,2026-10-05,Electronics,Keyboard,4,40514.85,162059.4,East,PayPal,18.67,3.93,Female,Yes,Fri,Dinner,1
+10037,2026-10-09,Home Appliances,Air Fryer,4,3633.02,14532.08,South,UPI,80.41,15.87,Female,No,Mon,Dinner,4
+10038,2026-04-04,Clothing,Jeans,5,774.2,3871.0,West,UPI,47.19,9.15,Male,No,Sat,Dinner,5
+10039,2026-04-28,Beauty Products,Perfume,3,2880.34,8641.02,Central,Credit Card,58.47,4.77,Female,No,Tue,Dinner,6
+10040,2026-12-13,Electronics,Bluetooth Speaker,6,35210.44,211262.64,Central,PayPal,16.47,2.54,Male,No,Mon,Lunch,1
+10041,2026-01-21,Beauty Products,Moisturizer,5,4966.23,24831.15,East,Credit Card,23.43,2.42,Male,No,Thu,Dinner,4
+10042,2026-12-18,Home Appliances,Electric Kettle,6,24000.6,144003.6,West,Cash,40.47,4.3,Female,No,Thu,Lunch,5
+10043,2026-03-06,Beauty Products,Face Wash,3,1447.76,4343.28,South,UPI,32.79,6.36,Female,No,Sat,Lunch,1
+10044,2026-01-11,Beauty Products,Face Wash,6,2207.57,13245.42,Central,Debit Card,22.4,2.97,Male,No,Tue,Dinner,5
+10045,2026-01-05,Electronics,Bluetooth Speaker,5,50606.08,253030.4,Central,UPI,25.14,2.06,Male,No,Mon,Dinner,3
+10046,2026-04-01,Beauty Products,Moisturizer,2,3685.38,7370.76,North,Debit Card,52.94,5.19,Male,No,Tue,Lunch,5
+10047,2026-11-25,Books,Data Science Handbook,6,822.52,4935.12,North,PayPal,74.36,11.69,Male,Yes,Sat,Dinner,2
+10048,2026-02-20,Beauty Products,Skincare Set,6,4064.21,24385.26,North,Credit Card,55.47,7.48,Male,Yes,Thu,Dinner,2
+10049,2026-06-21,Books,Data Science Handbook,5,1314.19,6570.95,South,PayPal,45.93,5.33,Female,Yes,Fri,Lunch,1
+10050,2026-09-03,Home Appliances,Air Fryer,3,6611.52,19834.56,East,UPI,25.5,4.33,Female,No,Sun,Lunch,3
+10051,2026-05-09,Beauty Products,Skincare Set,3,3089.29,9267.87,West,Debit Card,33.06,3.46,Male,No,Wed,Dinner,2
+10052,2026-01-26,Clothing,T-Shirt,5,2715.72,13578.6,West,Credit Card,45.14,7.96,Female,No,Wed,Lunch,1
+10053,2026-03-07,Electronics,Bluetooth Speaker,6,11479.0,68874.0,East,UPI,56.3,10.4,Female,Yes,Sat,Dinner,6
+10054,2026-07-22,Books,Deep Work,6,1320.74,7924.44,South,Cash,63.59,6.71,Male,No,Wed,Lunch,1
+10055,2026-08-08,Electronics,Wireless Earbuds,1,20904.15,20904.15,North,Cash,46.39,4.28,Male,No,Thu,Lunch,1
+10056,2026-01-21,Home Appliances,Vacuum Cleaner,6,7667.38,46004.28,Central,Cash,30.59,4.58,Female,No,Thu,Dinner,2
+10057,2026-04-15,Home Appliances,Mixer Grinder,3,2741.66,8224.98,North,UPI,89.8,18.46,Female,No,Sun,Dinner,4
+10058,2026-04-17,Electronics,Smartwatch,2,33627.39,67254.78,West,Credit Card,33.97,4.26,Male,Yes,Wed,Dinner,5
+10059,2026-12-02,Clothing,Jacket,4,2728.08,10912.32,Central,Debit Card,37.08,5.32,Male,Yes,Fri,Dinner,1
+10060,2026-12-12,Books,Python Basics,1,337.41,337.41,South,PayPal,52.65,6.78,Male,No,Mon,Lunch,6
+10061,2026-12-03,Home Appliances,Mixer Grinder,3,5761.04,17283.12,Central,PayPal,26.46,5.01,Male,No,Wed,Dinner,6
+10062,2026-03-06,Beauty Products,Shampoo,2,3392.95,6785.9,North,Credit Card,62.86,11.04,Female,No,Sat,Lunch,5
+10063,2026-08-10,Electronics,Wireless Earbuds,2,54024.69,108049.38,West,PayPal,54.59,7.67,Male,No,Sat,Lunch,3
+10064,2026-04-22,Electronics,Keyboard,3,44616.92,133850.76,South,Debit Card,32.94,3.78,Male,Yes,Thu,Dinner,1
+10065,2026-05-15,Beauty Products,Shampoo,6,3822.25,22933.5,West,Cash,50.9,8.38,Male,No,Sat,Dinner,4
+10066,2026-08-06,Beauty Products,Skincare Set,3,258.57,775.71,South,UPI,31.13,4.0,Male,No,Wed,Dinner,2
+10067,2026-08-05,Books,Data Science Handbook,6,941.41,5648.46,South,Credit Card,60.69,5.72,Female,No,Tue,Dinner,4
+10068,2026-10-14,Books,Data Science Handbook,3,243.04,729.12,West,Credit Card,77.14,11.04,Female,Yes,Fri,Lunch,1
+10069,2026-04-25,Electronics,Bluetooth Speaker,5,35680.89,178404.45,South,UPI,25.3,4.81,Female,No,Sun,Lunch,1
+10070,2026-04-06,Clothing,Jeans,3,2611.85,7835.55,Central,Credit Card,48.08,4.79,Female,No,Mon,Dinner,3
+10071,2026-06-22,Electronics,Power Bank,6,35045.01,210270.06,West,PayPal,57.59,12.47,Male,Yes,Tue,Lunch,5
+10072,2026-08-19,Electronics,Wireless Earbuds,6,18941.25,113647.5,South,Credit Card,40.66,5.92,Male,Yes,Sun,Dinner,3
+10073,2026-07-03,Home Appliances,Vacuum Cleaner,4,13490.24,53960.96,South,Debit Card,78.11,7.37,Female,No,Mon,Dinner,6
+10074,2026-08-22,Home Appliances,Vacuum Cleaner,4,10691.37,42765.48,North,PayPal,50.22,5.8,Male,No,Tue,Dinner,1
+10075,2026-05-22,Home Appliances,Air Fryer,2,16596.46,33192.92,Central,Debit Card,66.43,12.82,Female,No,Wed,Lunch,6
+10076,2026-11-10,Clothing,T-Shirt,3,1356.28,4068.84,South,UPI,50.84,10.42,Male,No,Fri,Dinner,5
+10077,2026-01-10,Books,The Alchemist,6,992.6,5955.6,East,Credit Card,41.7,8.87,Female,No,Sat,Lunch,5
+10078,2026-02-23,Clothing,Hoodie,1,2757.31,2757.31,Central,UPI,20.53,4.04,Female,Yes,Tue,Dinner,1
+10079,2026-06-21,Clothing,Jacket,1,4149.25,4149.25,East,Credit Card,67.4,13.22,Male,Yes,Sat,Lunch,5
+10080,2026-02-28,Home Appliances,Vacuum Cleaner,1,15332.51,15332.51,East,Credit Card,80.84,11.04,Female,No,Fri,Lunch,5
+10081,2026-06-02,Home Appliances,Toaster,2,15396.28,30792.56,Central,Credit Card,41.11,7.43,Male,No,Fri,Lunch,3
+10082,2026-02-21,Clothing,Sneakers,3,2883.28,8649.84,North,Credit Card,46.24,7.56,Female,No,Wed,Dinner,1
+10083,2026-06-02,Electronics,Wireless Earbuds,3,29981.73,89945.19,West,UPI,74.48,14.29,Female,No,Tue,Dinner,3
+10084,2026-03-08,Beauty Products,Perfume,1,4075.67,4075.67,Central,Credit Card,42.61,4.51,Female,No,Fri,Dinner,1
+10085,2026-01-23,Beauty Products,Face Wash,4,4536.15,18144.6,South,PayPal,78.47,6.71,Female,No,Sun,Dinner,1
+10086,2026-11-10,Clothing,Jacket,3,3762.71,11288.13,North,UPI,54.64,10.97,Male,No,Tue,Dinner,5
+10087,2026-04-22,Books,The Alchemist,3,799.43,2398.29,North,PayPal,65.18,5.81,Male,No,Fri,Dinner,2
+10088,2026-02-03,Clothing,T-Shirt,2,4475.5,8951.0,East,Cash,78.15,6.48,Male,Yes,Thu,Lunch,3
+10089,2026-04-05,Beauty Products,Face Wash,5,2129.27,10646.35,North,Credit Card,88.85,16.66,Male,No,Thu,Dinner,4
+10090,2026-09-15,Home Appliances,Toaster,6,9381.86,56291.16,North,Credit Card,65.42,7.77,Male,No,Tue,Lunch,6
+10091,2026-02-25,Books,The Alchemist,5,1441.16,7205.8,West,Cash,48.07,9.76,Female,No,Fri,Lunch,4
+10092,2026-10-03,Home Appliances,Electric Kettle,6,21075.38,126452.28,Central,PayPal,39.61,4.15,Female,Yes,Fri,Dinner,6
+10093,2026-03-06,Electronics,Wireless Earbuds,2,55701.26,111402.52,Central,PayPal,50.1,7.45,Male,Yes,Mon,Lunch,2
+10094,2026-12-10,Electronics,Wireless Earbuds,5,53747.83,268739.15,North,Credit Card,35.15,5.16,Male,No,Tue,Dinner,3
+10095,2026-12-05,Beauty Products,Shampoo,4,617.54,2470.16,Central,Credit Card,67.59,10.1,Female,No,Sun,Lunch,3
+10096,2026-03-16,Clothing,Jacket,5,2610.7,13053.5,West,Credit Card,52.15,10.48,Male,No,Wed,Dinner,2
+10097,2026-05-11,Home Appliances,Air Fryer,5,4681.68,23408.4,Central,Debit Card,69.47,11.57,Female,Yes,Wed,Lunch,5
+10098,2026-12-07,Electronics,Bluetooth Speaker,2,52804.75,105609.5,South,PayPal,74.03,7.59,Female,No,Tue,Dinner,5
+10099,2026-09-02,Home Appliances,Mixer Grinder,2,14348.23,28696.46,West,Cash,76.65,7.28,Female,Yes,Thu,Lunch,5
+10100,2026-01-22,Beauty Products,Moisturizer,4,3986.27,15945.08,South,UPI,27.48,5.16,Male,No,Thu,Lunch,3
+10101,2026-06-15,Clothing,Jeans,5,4954.68,24773.4,East,UPI,58.3,7.8,Male,Yes,Thu,Dinner,3
+10102,2026-11-20,Clothing,Jeans,2,1131.12,2262.24,South,Cash,48.0,4.94,Male,No,Fri,Dinner,3
+10103,2026-03-25,Home Appliances,Air Fryer,6,21806.91,130841.46,Central,UPI,88.44,12.27,Male,No,Thu,Lunch,5
+10104,2026-12-16,Home Appliances,Mixer Grinder,6,8561.97,51371.82,East,Cash,17.74,3.04,Female,No,Sun,Dinner,3
+10105,2026-03-20,Electronics,Wireless Earbuds,3,5924.29,17772.87,North,Credit Card,72.87,8.83,Female,No,Sat,Dinner,3
+10106,2026-01-08,Books,The Alchemist,6,730.91,4385.46,Central,Debit Card,64.9,7.64,Female,No,Mon,Lunch,6
+10107,2026-06-22,Clothing,Hoodie,1,3596.92,3596.92,West,Cash,50.1,4.74,Male,Yes,Thu,Dinner,3
+10108,2026-10-22,Electronics,Smartwatch,2,46660.38,93320.76,South,Debit Card,16.83,2.17,Male,No,Thu,Lunch,1
+10109,2026-07-09,Clothing,Jeans,2,4178.63,8357.26,South,Cash,24.44,5.02,Male,No,Sun,Dinner,3
+10110,2026-03-09,Clothing,Sneakers,6,4087.95,24527.7,West,Debit Card,79.93,12.52,Female,No,Sun,Dinner,3
+10111,2026-07-21,Home Appliances,Vacuum Cleaner,4,2260.52,9042.08,East,Cash,31.28,6.78,Female,No,Fri,Dinner,3
+10112,2026-01-07,Clothing,Jeans,5,3405.01,17025.05,West,Credit Card,32.37,5.67,Male,No,Mon,Dinner,4
+10113,2026-09-04,Beauty Products,Skincare Set,4,3764.99,15059.96,South,PayPal,73.28,11.04,Female,No,Fri,Lunch,4
+10114,2026-02-08,Clothing,Sneakers,2,4417.75,8835.5,Central,Credit Card,84.43,10.11,Male,Yes,Thu,Dinner,2
+10115,2026-09-22,Home Appliances,Vacuum Cleaner,6,18122.96,108737.76,West,PayPal,92.94,9.79,Male,Yes,Sun,Dinner,6
+10116,2026-08-12,Electronics,Keyboard,6,35780.58,214683.48,West,PayPal,39.23,7.85,Male,No,Mon,Lunch,1
+10117,2026-12-01,Home Appliances,Vacuum Cleaner,6,2578.62,15471.72,North,Cash,77.68,10.9,Female,No,Tue,Dinner,4
+10118,2026-12-27,Books,Python Basics,5,967.48,4837.4,Central,Cash,61.29,8.73,Male,No,Thu,Dinner,1
+10119,2026-01-17,Clothing,Jeans,5,965.67,4828.35,East,Cash,19.29,2.76,Male,Yes,Thu,Lunch,1
+10120,2026-11-18,Clothing,Sneakers,3,4938.5,14815.5,West,Cash,56.52,11.39,Male,No,Wed,Lunch,1
+10121,2026-05-15,Beauty Products,Perfume,2,3582.47,7164.94,South,Credit Card,26.56,4.84,Male,No,Thu,Dinner,2
+10122,2026-01-19,Clothing,Hoodie,2,3542.94,7085.88,Central,PayPal,12.69,2.67,Female,No,Tue,Dinner,1
+10123,2026-09-11,Electronics,Smartwatch,2,21240.13,42480.26,West,Debit Card,72.88,15.97,Male,No,Tue,Dinner,1
+10124,2026-06-07,Beauty Products,Perfume,6,3404.45,20426.7,North,PayPal,33.34,6.72,Male,Yes,Tue,Dinner,1
+10125,2026-10-11,Electronics,Keyboard,5,36784.99,183924.95,East,Debit Card,53.45,8.36,Male,Yes,Wed,Lunch,1
+10126,2026-05-15,Clothing,T-Shirt,2,2147.01,4294.02,West,Cash,79.09,7.53,Male,No,Tue,Dinner,5
+10127,2026-04-11,Home Appliances,Vacuum Cleaner,3,18114.88,54344.64,East,Cash,16.04,2.74,Female,No,Fri,Dinner,3
+10128,2026-08-16,Beauty Products,Moisturizer,2,1887.79,3775.58,South,Cash,41.01,5.05,Male,No,Sat,Dinner,5
+10129,2026-07-24,Clothing,Jeans,4,1654.07,6616.28,North,Debit Card,24.37,4.88,Male,No,Tue,Lunch,3
+10130,2026-07-22,Beauty Products,Skincare Set,4,4605.21,18420.84,Central,Cash,62.62,5.39,Female,Yes,Thu,Lunch,6
+10131,2026-04-18,Electronics,Smartwatch,2,13116.67,26233.34,East,Cash,77.8,10.07,Female,No,Tue,Lunch,2
+10132,2026-07-21,Books,Data Science Handbook,3,1242.87,3728.61,North,PayPal,24.01,2.71,Female,No,Thu,Lunch,2
+10133,2026-07-21,Home Appliances,Electric Kettle,3,5789.71,17369.13,South,UPI,63.3,9.47,Female,No,Tue,Lunch,5
+10134,2026-07-13,Clothing,Jacket,1,3700.95,3700.95,West,PayPal,76.95,12.65,Female,No,Wed,Dinner,4
+10135,2026-11-21,Electronics,Keyboard,1,11916.11,11916.11,South,UPI,49.85,9.79,Female,No,Wed,Lunch,4
+10136,2026-04-08,Books,Deep Work,6,766.76,4600.56,West,Debit Card,65.65,10.38,Female,No,Sat,Lunch,4
+10137,2026-12-08,Books,Deep Work,1,386.66,386.66,West,UPI,53.43,10.42,Female,No,Sun,Dinner,6
+10138,2026-02-08,Beauty Products,Perfume,6,4875.99,29255.94,North,PayPal,35.54,6.18,Female,No,Fri,Dinner,4
+10139,2026-09-01,Books,The Alchemist,6,1106.81,6640.86,East,UPI,37.6,5.01,Female,No,Thu,Lunch,2
+10140,2026-10-06,Books,Data Science Handbook,6,960.8,5764.8,South,PayPal,63.79,8.6,Female,No,Wed,Dinner,6
+10141,2026-02-03,Home Appliances,Vacuum Cleaner,6,21806.97,130841.82,South,Cash,76.95,9.63,Male,Yes,Wed,Dinner,4
+10142,2026-04-03,Clothing,Jeans,1,4183.41,4183.41,East,Credit Card,61.66,6.13,Female,No,Fri,Dinner,4
+10143,2026-04-18,Electronics,Power Bank,5,22368.3,111841.5,Central,Cash,23.76,4.48,Female,No,Tue,Dinner,4
+10144,2026-11-18,Beauty Products,Shampoo,4,3174.02,12696.08,Central,Credit Card,56.14,6.0,Male,Yes,Sun,Lunch,3
+10145,2026-07-08,Home Appliances,Mixer Grinder,1,4242.43,4242.43,North,PayPal,28.3,5.0,Male,No,Thu,Lunch,3
+10146,2026-03-07,Books,The Alchemist,4,384.57,1538.28,East,Cash,22.41,4.57,Female,No,Thu,Dinner,2
+10147,2026-10-24,Beauty Products,Moisturizer,6,3892.66,23355.96,Central,Credit Card,45.64,8.7,Male,No,Sun,Dinner,3
+10148,2026-11-21,Beauty Products,Moisturizer,5,4204.66,21023.3,West,PayPal,89.59,13.29,Male,No,Fri,Lunch,5
+10149,2026-01-09,Clothing,Sneakers,4,4377.44,17509.76,North,Credit Card,54.71,10.96,Female,No,Tue,Dinner,1
+10150,2026-02-08,Electronics,Wireless Earbuds,5,48628.57,243142.85,East,Credit Card,31.22,5.91,Female,No,Mon,Dinner,2
+10151,2026-07-11,Electronics,Keyboard,5,27311.87,136559.35,North,PayPal,54.88,9.62,Male,Yes,Wed,Lunch,4
+10152,2026-07-19,Home Appliances,Air Fryer,5,1093.03,5465.15,West,UPI,46.26,10.12,Female,No,Thu,Dinner,2
+10153,2026-08-08,Home Appliances,Vacuum Cleaner,6,3181.17,19087.02,North,Credit Card,14.51,1.33,Female,No,Sat,Dinner,2
+10154,2026-10-21,Clothing,Jeans,4,447.97,1791.88,West,Cash,56.86,8.77,Female,No,Sat,Lunch,1
+10155,2026-07-09,Home Appliances,Vacuum Cleaner,5,15365.53,76827.65,North,UPI,29.28,2.52,Male,No,Sun,Dinner,4
+10156,2026-03-26,Books,Data Science Handbook,6,977.47,5864.82,North,Cash,69.17,10.34,Male,No,Thu,Lunch,5
+10157,2026-06-22,Electronics,Smartwatch,6,38346.21,230077.26,East,Credit Card,75.45,14.24,Female,Yes,Fri,Dinner,6
+10158,2026-12-13,Books,Deep Work,2,1132.73,2265.46,East,PayPal,76.88,8.45,Male,Yes,Fri,Dinner,4
+10159,2026-08-10,Beauty Products,Face Wash,6,2640.13,15840.78,South,Credit Card,85.88,14.52,Female,No,Wed,Lunch,6
+10160,2026-07-27,Books,Deep Work,4,1339.96,5359.84,East,Debit Card,60.34,7.45,Male,No,Wed,Dinner,2
+10161,2026-05-25,Electronics,Power Bank,4,32552.39,130209.56,West,UPI,15.54,2.87,Female,No,Sat,Dinner,2
+10162,2026-05-22,Home Appliances,Air Fryer,4,24911.29,99645.16,Central,Debit Card,74.19,8.19,Female,No,Sun,Dinner,4
+10163,2026-07-20,Books,The Alchemist,4,1222.17,4888.68,West,Debit Card,54.73,9.92,Male,No,Mon,Dinner,4
+10164,2026-06-21,Clothing,Hoodie,4,1641.18,6564.72,West,UPI,33.73,5.98,Female,No,Wed,Dinner,6
+10165,2026-12-22,Beauty Products,Perfume,1,787.41,787.41,Central,Credit Card,22.5,4.32,Male,No,Sun,Lunch,4
+10166,2026-09-20,Electronics,Keyboard,3,30021.9,90065.7,Central,Debit Card,76.8,14.1,Female,No,Sun,Dinner,6
+10167,2026-10-03,Clothing,Hoodie,1,520.5,520.5,South,UPI,70.73,14.86,Male,No,Sat,Dinner,5
+10168,2026-02-03,Beauty Products,Moisturizer,4,2416.32,9665.28,North,Credit Card,71.33,12.01,Female,No,Mon,Dinner,5
+10169,2026-10-22,Books,Python Basics,4,364.53,1458.12,West,UPI,65.3,13.97,Female,No,Thu,Lunch,4
+10170,2026-04-18,Books,Data Science Handbook,6,517.13,3102.78,South,UPI,39.81,4.06,Female,Yes,Sun,Dinner,5
+10171,2026-07-21,Electronics,Power Bank,1,32179.03,32179.03,South,Debit Card,65.74,10.31,Female,No,Wed,Lunch,2
+10172,2026-12-25,Books,Python Basics,5,817.55,4087.75,Central,Credit Card,26.77,3.41,Male,No,Tue,Lunch,2
+10173,2026-11-09,Electronics,Smartwatch,2,43340.48,86680.96,North,Credit Card,48.18,4.63,Female,No,Mon,Dinner,1
+10174,2026-07-22,Clothing,Jeans,5,2629.6,13148.0,West,Cash,58.67,8.49,Female,No,Fri,Dinner,1
+10175,2026-08-08,Home Appliances,Vacuum Cleaner,3,24469.1,73407.3,Central,Cash,32.36,4.08,Female,No,Sun,Dinner,5
+10176,2026-10-20,Books,Atomic Habits,2,1427.96,2855.92,East,Cash,17.69,2.56,Female,No,Thu,Dinner,2
+10177,2026-05-21,Electronics,Bluetooth Speaker,3,23134.99,69404.97,North,Debit Card,55.68,6.69,Female,No,Fri,Dinner,4
+10178,2026-01-28,Clothing,Sneakers,4,3601.14,14404.56,North,PayPal,41.64,8.56,Male,No,Tue,Lunch,3
+10179,2026-01-13,Books,Atomic Habits,6,572.77,3436.62,Central,PayPal,79.03,15.21,Female,No,Sat,Dinner,3
+10180,2026-02-26,Beauty Products,Skincare Set,6,996.58,5979.48,Central,UPI,64.95,6.04,Female,No,Tue,Dinner,3
+10181,2026-12-09,Beauty Products,Perfume,4,4319.25,17277.0,Central,Debit Card,70.19,15.32,Female,No,Sat,Dinner,3
+10182,2026-03-15,Home Appliances,Electric Kettle,2,8912.03,17824.06,South,Debit Card,20.25,2.3,Female,No,Fri,Lunch,2
+10183,2026-02-02,Home Appliances,Mixer Grinder,6,11339.23,68035.38,East,Cash,76.25,8.81,Male,Yes,Mon,Dinner,3
+10184,2026-04-14,Electronics,Keyboard,3,14017.18,42051.54,West,Cash,48.95,4.39,Male,No,Thu,Dinner,6
+10185,2026-08-14,Electronics,Wireless Earbuds,5,47412.62,237063.1,West,PayPal,73.44,5.88,Male,Yes,Sun,Lunch,1
+10186,2026-09-19,Home Appliances,Air Fryer,6,24438.57,146631.42,East,UPI,40.84,3.42,Female,No,Wed,Dinner,1
+10187,2026-04-14,Clothing,Hoodie,4,4102.57,16410.28,Central,PayPal,32.44,6.36,Female,No,Fri,Dinner,1
+10188,2026-04-27,Books,Python Basics,1,476.56,476.56,West,Cash,20.85,2.33,Female,No,Thu,Lunch,3
+10189,2026-02-21,Clothing,T-Shirt,6,1919.88,11519.28,Central,PayPal,80.85,9.7,Female,No,Mon,Dinner,5
+10190,2026-01-08,Books,Deep Work,1,958.62,958.62,Central,Cash,22.85,4.61,Female,No,Fri,Lunch,5
+10191,2026-07-07,Books,Python Basics,4,610.1,2440.4,West,Cash,65.95,10.74,Male,No,Fri,Lunch,5
+10192,2026-06-22,Books,The Alchemist,6,808.35,4850.1,North,Debit Card,47.05,10.24,Female,No,Thu,Dinner,2
+10193,2026-08-14,Electronics,Power Bank,2,28613.35,57226.7,East,PayPal,51.81,7.41,Male,No,Wed,Lunch,4
+10194,2026-05-21,Books,Python Basics,6,847.37,5084.22,North,Debit Card,83.0,16.45,Male,No,Mon,Lunch,6
+10195,2026-11-14,Home Appliances,Mixer Grinder,5,10407.76,52038.8,East,UPI,45.36,6.85,Male,Yes,Mon,Dinner,5
+10196,2026-10-07,Beauty Products,Moisturizer,4,2093.97,8375.88,West,Debit Card,71.91,11.87,Female,No,Wed,Dinner,5
+10197,2026-01-04,Beauty Products,Face Wash,6,3254.73,19528.38,South,PayPal,53.97,9.51,Female,No,Fri,Dinner,1
+10198,2026-10-02,Home Appliances,Electric Kettle,1,14099.92,14099.92,East,UPI,41.04,8.69,Male,No,Mon,Dinner,3
+10199,2026-06-03,Beauty Products,Skincare Set,3,2610.34,7831.02,South,Credit Card,30.37,5.14,Male,No,Sat,Lunch,4
+10200,2026-07-24,Electronics,Keyboard,1,18054.92,18054.92,North,Cash,78.53,15.17,Male,No,Sun,Dinner,2
+10201,2026-03-03,Beauty Products,Shampoo,3,2263.67,6791.01,West,Cash,82.55,13.43,Female,No,Fri,Lunch,5
+10202,2026-05-07,Electronics,Bluetooth Speaker,2,35140.83,70281.66,West,PayPal,46.29,7.11,Female,Yes,Wed,Dinner,4
+10203,2026-11-17,Electronics,Wireless Earbuds,3,56825.34,170476.02,North,PayPal,58.86,7.52,Male,No,Fri,Dinner,2
+10204,2026-03-11,Clothing,Sneakers,6,3069.02,18414.12,Central,Cash,20.62,3.05,Female,No,Mon,Lunch,1
+10205,2026-05-26,Clothing,Hoodie,3,1360.77,4082.31,Central,PayPal,35.55,3.58,Male,No,Wed,Lunch,2
+10206,2026-01-13,Clothing,Sneakers,6,1844.25,11065.5,West,PayPal,81.35,9.79,Male,Yes,Thu,Dinner,1
+10207,2026-03-26,Beauty Products,Face Wash,2,2857.82,5715.64,North,PayPal,75.88,9.85,Female,No,Fri,Dinner,3
+10208,2026-01-03,Books,Deep Work,4,1454.66,5818.64,West,Debit Card,52.47,8.8,Male,Yes,Wed,Lunch,5
+10209,2026-02-11,Electronics,Smartwatch,5,27956.01,139780.05,Central,Cash,59.6,6.67,Female,No,Thu,Dinner,5
+10210,2026-10-16,Beauty Products,Shampoo,5,2836.75,14183.75,West,Cash,73.65,15.63,Male,No,Mon,Dinner,1
+10211,2026-05-14,Books,Data Science Handbook,3,813.41,2440.23,East,Debit Card,52.31,7.79,Female,No,Mon,Dinner,3
+10212,2026-08-19,Books,Atomic Habits,4,962.86,3851.44,East,UPI,14.78,1.19,Male,No,Sun,Dinner,1
+10213,2026-10-10,Beauty Products,Moisturizer,5,4863.36,24316.8,Central,Cash,47.33,8.34,Male,No,Sun,Dinner,2
+10214,2026-07-03,Clothing,T-Shirt,6,1682.3,10093.8,North,Cash,87.34,15.26,Male,Yes,Mon,Dinner,3
+10215,2026-02-08,Electronics,Power Bank,5,44558.33,222791.65,North,Debit Card,79.68,15.4,Male,No,Fri,Dinner,5
+10216,2026-02-08,Books,Atomic Habits,3,620.91,1862.73,North,Debit Card,70.74,5.72,Male,No,Sat,Dinner,5
+10217,2026-08-23,Clothing,Sneakers,4,3652.6,14610.4,East,PayPal,68.51,7.51,Female,No,Tue,Lunch,5
+10218,2026-07-23,Beauty Products,Face Wash,6,2835.11,17010.66,South,Debit Card,41.26,7.04,Female,Yes,Fri,Lunch,3
+10219,2026-04-13,Books,The Alchemist,2,1010.07,2020.14,East,Debit Card,82.22,15.83,Female,No,Sat,Dinner,6
+10220,2026-10-18,Books,Data Science Handbook,2,330.67,661.34,North,Debit Card,46.98,4.43,Male,No,Sun,Lunch,4
+10221,2026-04-18,Electronics,Power Bank,5,56456.69,282283.45,East,PayPal,19.85,3.16,Female,No,Thu,Lunch,1
+10222,2026-08-23,Home Appliances,Mixer Grinder,4,9930.99,39723.96,South,PayPal,16.05,2.55,Female,No,Wed,Lunch,2
+10223,2026-03-12,Beauty Products,Shampoo,1,3398.65,3398.65,Central,Debit Card,68.58,8.35,Male,No,Thu,Lunch,4
+10224,2026-09-13,Electronics,Power Bank,4,30164.96,120659.84,South,PayPal,58.68,11.03,Male,Yes,Mon,Dinner,2
+10225,2026-02-09,Beauty Products,Perfume,1,4281.67,4281.67,West,Debit Card,86.37,9.52,Male,No,Mon,Dinner,6
+10226,2026-09-17,Home Appliances,Electric Kettle,4,24385.12,97540.48,South,PayPal,37.34,7.64,Female,Yes,Fri,Dinner,6
+10227,2026-03-15,Books,Deep Work,5,1078.86,5394.3,North,Cash,14.39,1.4,Female,Yes,Fri,Dinner,2
+10228,2026-08-28,Books,Deep Work,4,776.53,3106.12,South,Cash,77.89,11.19,Female,No,Tue,Dinner,6
+10229,2026-10-07,Home Appliances,Toaster,6,2648.52,15891.12,West,Credit Card,54.36,6.88,Male,No,Mon,Lunch,6
+10230,2026-08-08,Books,Atomic Habits,5,1045.06,5225.3,Central,UPI,17.2,3.54,Male,No,Sun,Dinner,3
+10231,2026-08-09,Books,Atomic Habits,5,1108.68,5543.4,Central,Cash,74.32,10.88,Female,No,Tue,Dinner,5
+10232,2026-10-27,Clothing,Hoodie,4,4828.73,19314.92,Central,UPI,67.75,11.3,Male,No,Sat,Lunch,3
+10233,2026-06-28,Home Appliances,Toaster,4,20429.2,81716.8,North,Credit Card,34.21,4.39,Female,No,Sun,Lunch,3
+10234,2026-10-21,Clothing,Jeans,5,1077.59,5387.95,Central,Debit Card,18.71,2.59,Female,No,Thu,Dinner,3
+10235,2026-02-11,Clothing,Jacket,3,2509.55,7528.65,West,Cash,82.63,14.41,Male,No,Sat,Dinner,4
+10236,2026-06-22,Electronics,Keyboard,3,57110.07,171330.21,South,Debit Card,36.69,5.18,Male,Yes,Tue,Dinner,4
+10237,2026-10-08,Books,The Alchemist,3,1220.0,3660.0,West,Credit Card,43.95,9.38,Female,No,Fri,Dinner,3
+10238,2026-12-10,Home Appliances,Mixer Grinder,2,4737.33,9474.66,East,PayPal,18.87,1.53,Male,No,Sat,Dinner,4
+10239,2026-09-22,Clothing,Sneakers,3,1218.29,3654.87,East,Debit Card,39.5,8.11,Male,Yes,Sat,Dinner,1
+10240,2026-11-26,Home Appliances,Mixer Grinder,5,1886.85,9434.25,North,Debit Card,24.53,2.07,Male,No,Sun,Lunch,4
+10241,2026-07-10,Beauty Products,Perfume,5,2054.35,10271.75,East,UPI,27.81,2.97,Male,No,Wed,Dinner,1
+10242,2026-03-21,Electronics,Wireless Earbuds,1,14107.32,14107.32,East,Cash,36.69,5.15,Female,No,Mon,Lunch,5
+10243,2026-04-15,Clothing,Hoodie,4,1699.48,6797.92,South,Cash,77.26,10.72,Female,No,Sun,Dinner,2
+10244,2026-01-03,Beauty Products,Moisturizer,3,1425.48,4276.44,East,PayPal,28.12,2.52,Male,No,Sun,Lunch,6
+10245,2026-05-21,Books,Data Science Handbook,2,1194.77,2389.54,North,Credit Card,43.86,3.79,Female,No,Thu,Lunch,1
+10246,2026-04-28,Beauty Products,Face Wash,6,494.39,2966.34,West,UPI,23.73,3.35,Female,Yes,Fri,Dinner,6
+10247,2026-11-15,Books,Python Basics,2,1295.37,2590.74,West,PayPal,71.81,13.96,Female,Yes,Tue,Dinner,5
+10248,2026-06-25,Beauty Products,Face Wash,2,2027.31,4054.62,North,Cash,69.21,11.19,Male,No,Tue,Lunch,2
+10249,2026-08-15,Books,Python Basics,5,325.42,1627.1,East,Credit Card,22.89,4.95,Male,No,Sat,Dinner,1
+10250,2026-03-17,Clothing,Jacket,1,4363.78,4363.78,North,Cash,30.74,3.38,Female,No,Tue,Dinner,5
