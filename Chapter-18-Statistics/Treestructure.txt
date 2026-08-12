@@ -1,0 +1,85 @@
+STATISTICS
+│
+├── 1. TYPES OF STATISTICS
+│   │
+│   ├── A. Descriptive Statistics
+│   │   │
+│   │   ├── Central Tendency
+│   │   │   ├── Mean
+│   │   │   ├── Median
+│   │   │   └── Mode
+│   │   │
+│   │   ├── Measures of Dispersion
+│   │   │   ├── Range
+│   │   │   ├── Variance
+│   │   │   ├── Standard Deviation
+│   │   │   └── IQR
+│   │   │
+│   │   ├── Position
+│   │   │   ├── Quartiles
+│   │   │   └── Percentiles
+│   │   │
+│   │   └── Data Visualization
+│   │       ├── Histogram
+│   │       ├── Box Plot
+│   │       ├── Bar Chart
+│   │       └── Pie Chart
+│   │
+│   └── B. Inferential Statistics
+│       │
+│       ├── Sampling
+│       │   ├── Random Sampling
+│       │   ├── Systematic Sampling
+│       │   └── Stratified Sampling
+│       │
+│       ├── Probability
+│       │
+│       ├── Hypothesis Testing
+│       │   ├── Null Hypothesis (H₀)
+│       │   ├── Alternative Hypothesis (H₁)
+│       │   ├── p-value
+│       │   └── Significance Level
+│       │
+│       ├── Confidence Intervals
+│       │
+│       └── Statistical Tests
+│           ├── t-test
+│           ├── Chi-square Test
+│           └── ANOVA
+│
+├── 2. DATA
+│   │
+│   ├── Qualitative Data
+│   │   └── Categorical Data
+│   │
+│   └── Quantitative Data
+│       │
+│       ├── Discrete Data
+│       └── Continuous Data
+│
+├── 3. DATA DISTRIBUTION
+│   │
+│   ├── Normal Distribution
+│   ├── Skewed Distribution
+│   │   ├── Positive / Right Skew
+│   │   └── Negative / Left Skew
+│   │
+│   └── Outliers
+│
+├── 4. RELATIONSHIPS BETWEEN VARIABLES
+│   │
+│   ├── Correlation
+│   │   ├── Positive Correlation
+│   │   ├── Negative Correlation
+│   │   └── No / Weak Correlation
+│   │
+│   └── Regression
+│       ├── Simple Linear Regression
+│       └── Multiple Linear Regression
+│
+└── 5. PROBABILITY
+    │
+    ├── Basic Probability
+    ├── Events
+    ├── Independent Events
+    └── Conditional Probability
